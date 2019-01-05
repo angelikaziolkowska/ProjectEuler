@@ -1,4 +1,4 @@
 # ProjectEuler
 
 
-fun mathematical challenges to be solved using programming from projecteuler.net
+fun mathematical challenges from projecteuler.net to be solved using programming 
